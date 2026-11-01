@@ -1,9 +1,9 @@
-## Projects
+#### Projects
 
 - **[localidraw](https://github.com/lnotspotl/localidraw)** - local `excalidraw` with tabs and HF bucket sync
 - **[docustore](https://github.com/lnotspotl/docustore)** - personal document store: local web page, agent-friendly CLI, HF repo sync
 
-## Robotics
+#### Robotics
 
 - **[tbai](https://github.com/tbai-lab/tbai)** - robot control: MPC, WBC, RL policies (DTC, NP3O, WTW), InEKF
 - **[tbai_ros](https://github.com/tbai-lab/tbai_ros)** - tbai on ROS Noetic via pixi
