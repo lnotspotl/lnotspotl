@@ -5,7 +5,7 @@
 
 #### Robotics
 
-- **[tbai](https://github.com/tbai-lab/tbai)** - robot control: MPC, WBC, RL policies (DTC, NP3O, WTW), InEKF
+- **[tbai](https://github.com/tbai-lab/tbai)** - MPC, WBC, RL policies (DTC, NP3O, WTW) and InEKF for ANYmal, Go2, Spot, G1 and Franka, in MuJoCo and on real robots
 - **[tbai_ros](https://github.com/tbai-lab/tbai_ros)** - tbai on ROS Noetic via pixi
 - **[tbai_isaac](https://github.com/tbai-lab/tbai_isaac)** - blind, perceptive and DTC policies trained in Isaac Gym
 - **[tbai_cbf_mppi](https://github.com/tbai-lab/tbai_cbf_mppi)** - control barrier functions with MPPI, CPU and CUDA
